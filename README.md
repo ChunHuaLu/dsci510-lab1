@@ -1,5 +1,15 @@
 ### how to execute lab1
-- clone
-- to execute `.py` file : `run python3 lab1.py` in command line or use an ide to run .py file
+- step 1:
+    - download zipfile
+- step 2:
+    - go to download directory
+    '''
+    $ cd dsci510-lab1-master
+    '''
+- step3:
+    - execute lab1.py
+    ```
+    $ python3 lab1.py
+    ```
 
-![example](https://i.imgur.com/76RkCjj.png)
+![sample execute](https://i.imgur.com/uidb5M5.png)
