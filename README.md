@@ -1,4 +1,7 @@
 ### how to execute lab1
+> Name : Chun-Hua Lu
+> Email : chunhua@usc.edu
+
 - step 1:
     - download zipfile
 - step 2:
