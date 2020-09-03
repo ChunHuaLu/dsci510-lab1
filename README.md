@@ -3,9 +3,9 @@
     - download zipfile
 - step 2:
     - go to download directory
-    '''
+    ```
     $ cd dsci510-lab1-master
-    '''
+    ```
 - step3:
     - execute lab1.py
     ```
